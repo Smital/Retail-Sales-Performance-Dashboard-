@@ -6,7 +6,7 @@ This project analyzes more than 51,000 retail sales records from the Global Supe
 
 The objective was to build an interactive executive dashboard that allows users to monitor sales performance, profitability, customer segments, regional results and product-level trends.
 
-Due to GitHub's file size limitations, please find the Google Drive link: https://drive.google.com/drive/project/1vhL0xikdHlcwRRO668upXR-Rdd9eAISF?usp=sharing 
+Due to GitHub's file size limitations, please find the Google Drive link: https://drive.google.com/drive/folders/10oo8UEbGPe3ceBRlY-4ohXddtIzH3Yuj?usp=drive_link 
 
 ![Retail Sales Performance Dashboard](images/Retail-Dashboard.png)
 
