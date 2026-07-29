@@ -6,7 +6,7 @@ This project analyzes more than 51,000 retail sales records from the Global Supe
 
 The objective was to build an interactive executive dashboard that allows users to monitor sales performance, profitability, customer segments, regional results and product-level trends.
 
-![Retail Sales Performance Dashboard](images/dashboard-preview.png)
+![Retail Sales Performance Dashboard](images/Retail-Dashboard.png)
 
 ## Business Questions
 
