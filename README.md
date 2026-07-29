@@ -11,6 +11,7 @@ Due to GitHub's file size limitations, please find the Google Drive link: https:
 ```markdown
 
 ## Dashboard Preview
+
 ![Retail Sales Performance Dashboard](images/Retail-Dashboard.png)
 
 ## Business Questions
@@ -27,14 +28,14 @@ This project was created to answer the following questions:
 
 ## Key Performance Indicators
 
-The dashboard tracks:
-
-- Total Revenue: $12.64M
-- Total Profit: $1.47M
-- Total Orders: 51,290
-- Quantity Sold: 178,312
-- Average Order Value: $246.50
-- Profit Margin: 11.61%
+| KPI | Result |
+|---|---:|
+| Total Revenue | $12.64M |
+| Total Profit | $1.47M |
+| Total Orders | 51,290 |
+| Quantity Sold | 178,312 |
+| Average Order Value | $246.50 |
+| Profit Margin | 11.61% |
 
 ## Dashboard Features
 
@@ -122,14 +123,27 @@ retail-sales-performance-dashboard/
 │
 └── data/
     └── data-source-information.txt
+```
 
-```text
 ## Dataset
 
-- The project uses the Global Superstore dataset covering the years 2011–2014.
+Source: Kaggle
+Records analyzed: 51,000+
+Dataset type: Retail sales transactions
 
-- The dataset was obtained through Kaggle and is not included in this repository unless redistribution is permitted under its applicable licence.
+The original dataset is not included in this repository to respect its applicable licensing and redistribution terms.
 
+## Skills Demonstrated
+
+- Data cleaning and validation
+- Exploratory data analysis
+- KPI development
+- PivotTable and PivotChart analysis
+- Interactive dashboard design
+- Business performance reporting
+- Data visualization
+- Business insight generation
+- Data storytelling
 
 ## Author
 
