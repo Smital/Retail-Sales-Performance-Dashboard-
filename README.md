@@ -12,7 +12,7 @@ Due to GitHub's file size limitations, please find the Google Drive link: https:
 
 ## Dashboard Preview
 
-![Retail Sales Performance Dashboard](images/Retail-Dashboard.png)
+![Retail-Sales-Performance-Dashboard-](images/Retail-Dashboard.png)
 
 ## Business Questions
 
