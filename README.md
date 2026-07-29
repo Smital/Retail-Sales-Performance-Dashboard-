@@ -8,8 +8,6 @@ The objective was to build an interactive executive dashboard that allows users 
 
 Due to GitHub's file size limitations, please find the Google Drive link: https://drive.google.com/drive/folders/10oo8UEbGPe3ceBRlY-4ohXddtIzH3Yuj?usp=drive_link 
 
-```markdown
-
 ## Dashboard Preview
 
 ![Retail Sales Performance Dashboard](https://raw.githubusercontent.com/Smital/Retail-Sales-Performance-Dashboard-/main/images/Retail-Dashboard.png) 
