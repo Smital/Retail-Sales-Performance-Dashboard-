@@ -48,17 +48,14 @@ This project was created to answer the following questions:
 
 ## Tools and Techniques
 
-- Microsoft Excel
-- Excel Tables
-- PivotTables
-- PivotCharts
-- Slicers
-- Calculated columns
-- Custom number formatting
-- Data validation
-- Data cleaning
-- Dashboard design
-- Business analysis
+| Tool                   | Purpose                     |
+| ---------------------- | --------------------------- |
+| Microsoft Excel        | Data analysis and dashboard |
+| PivotTables            | Data summarization          |
+| PivotCharts            | Visualization               |
+| Slicers                | Interactive filtering       |
+| Conditional Formatting | KPI highlighting            |
+
 
 ## Data Preparation
 
