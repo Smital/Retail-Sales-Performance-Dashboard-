@@ -6,6 +6,8 @@ This project analyzes more than 51,000 retail sales records from the Global Supe
 
 The objective was to build an interactive executive dashboard that allows users to monitor sales performance, profitability, customer segments, regional results and product-level trends.
 
+Due to GitHub's file size limitations, please find the Google Drive link: https://drive.google.com/drive/project/1vhL0xikdHlcwRRO668upXR-Rdd9eAISF?usp=sharing 
+
 ![Retail Sales Performance Dashboard](images/Retail-Dashboard.png)
 
 ## Business Questions
@@ -111,10 +113,23 @@ The loss-making product analysis identified products that may require pricing, d
 retail-sales-performance-dashboard/
 │
 ├── README.md
-├── Retail_Sales_Performance_Dashboard.xlsx
 │
 ├── images/
 │   └── retail - dashboard.png
 │
 └── data/
     └── data-source-information.txt
+
+
+## Dataset
+
+- The project uses the Global Superstore dataset covering the years 2011–2014.
+
+- The dataset was obtained through Kaggle and is not included in this repository unless redistribution is permitted under its applicable licence.
+
+
+## Author
+
+- Smital Christian
+
+- Aspiring Data Analyst with experience in UX/UI design, operational support, data validation and customer service.
