@@ -8,6 +8,9 @@ The objective was to build an interactive executive dashboard that allows users 
 
 Due to GitHub's file size limitations, please find the Google Drive link: https://drive.google.com/drive/folders/10oo8UEbGPe3ceBRlY-4ohXddtIzH3Yuj?usp=drive_link 
 
+```markdown
+
+## Dashboard Preview
 ![Retail Sales Performance Dashboard](images/Retail-Dashboard.png)
 
 ## Business Questions
@@ -120,7 +123,7 @@ retail-sales-performance-dashboard/
 └── data/
     └── data-source-information.txt
 
-
+```text
 ## Dataset
 
 - The project uses the Global Superstore dataset covering the years 2011–2014.
