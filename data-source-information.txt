@@ -1,0 +1,12 @@
+Dataset: Global Superstore Dataset
+Source platform: Kaggle
+Coverage period: 2011–2014
+Records analyzed: approximately 51,000
+
+The original dataset is not included in this repository unless its licence permits redistribution.
+
+To reproduce the project:
+1. Obtain the Global Superstore dataset from Kaggle.
+2. Open the Excel dashboard workbook.
+3. Review the Raw_Data and Clean_Data worksheets.
+4. Refresh the PivotTables and PivotCharts if the data source is replaced.
