@@ -1,4 +1,4 @@
-# Retail Sales Performance Dashboard
+# 📊 Retail Sales Performance Dashboard
 
 ## Project Overview
 
