@@ -9,6 +9,10 @@ This project analyzes more than 51,000 retail sales records from the Global Supe
 
 The objective was to build an interactive executive dashboard that allows users to monitor sales performance, profitability, customer segments, regional results and product-level trends.
 
+### Project Summary
+
+This project demonstrates an end-to-end Excel analytics workflow, including data cleaning, exploratory data analysis, KPI development, interactive dashboard design, and business insight generation using the Global Superstore dataset.
+
 > **Note:** The interactive Excel workbook is available through Google Drive due to GitHub's web upload size limitations. https://drive.google.com/drive/folders/10oo8UEbGPe3ceBRlY-4ohXddtIzH3Yuj?usp=drive_link 
 
 ## Dashboard Preview
