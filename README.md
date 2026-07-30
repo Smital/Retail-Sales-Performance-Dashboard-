@@ -7,7 +7,7 @@
 
 This project analyzes more than 51,000 retail sales records from the Global Superstore dataset using Microsoft Excel.
 
-The objective was to build an interactive executive dashboard that allows users to monitor sales performance, profitability, customer segments, regional results and product-level trends.
+The objective of this project was to transform raw retail sales data into an interactive Excel dashboard that enables stakeholders to monitor business performance, identify trends, and make data-driven decisions.
 
 ### Project Summary
 
@@ -158,3 +158,8 @@ The original dataset is not included in this repository to respect its applicabl
 - Smital Christian
 
 - Aspiring Data Analyst with experience in UX/UI design, operational support, data validation and customer service.
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/smitalchristian44/ 
+- GitHub: https://github.com/Smital
