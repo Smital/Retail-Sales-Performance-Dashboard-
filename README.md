@@ -1,4 +1,7 @@
 # 📊 Retail Sales Performance Dashboard
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoftexcel&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-blue)
+![EDA](https://img.shields.io/badge/EDA-Completed-orange)
 
 ## Project Overview
 
