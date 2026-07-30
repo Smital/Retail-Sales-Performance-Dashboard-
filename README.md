@@ -137,15 +137,21 @@ The original dataset is not included in this repository to respect its applicabl
 
 ## Skills Demonstrated
 
-- Data cleaning and validation
-- Exploratory data analysis
-- KPI development
-- PivotTable and PivotChart analysis
-- Interactive dashboard design
-- Business performance reporting
-- Data visualization
-- Business insight generation
-- Data storytelling
+**Data Analysis**
+- Data Cleaning
+- Exploratory Data Analysis
+- KPI Development
+
+**Excel**
+- PivotTables
+- PivotCharts
+- Slicers
+- Conditional Formatting
+
+**Business**
+- Business Reporting
+- Data Visualization
+- Data Storytelling
 
 ## Author
 
